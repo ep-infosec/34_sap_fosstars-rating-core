@@ -1,0 +1,13 @@
+**Status**: **%STATUS%**
+
+**Confidence**: %CONFIDENCE_LABEL% (%CONFIDENCE_VALUE%, max confidence value is %MAX_CONFIDENCE%)
+
+%VIOLATED_RULES%
+
+%WARNINGS%
+
+%UNCLEAR_RULES%
+
+%PASSED_RULES%
+
+%ADVICE%
